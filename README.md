@@ -13,7 +13,7 @@ Run the following command from you terminal:
 
 
  ```bash
- composer require "mveabraham/lh1-repository-generatorr"
+ composer require "mveabraham/repository-generator"
  ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-    "name": "mveabraham/lh1-repository-generator",
+    "name": "mveabraham/repository-generator",
     "description": "Generate Repository from Eloquent models",
     "license": "MIT",
     "authors": [
