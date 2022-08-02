@@ -19,7 +19,7 @@ class RepositoryServiceProvider extends ServiceProvider
         );
         if ($this->app->runningInConsole()) {
             $this->commands([
-                \Lab2view\RepositoryGenerator\Console\Commands\Generate::class,
+                \MveAbraham\RepositoryGenerator\Console\Commands\Generate::class,
             ]);
         }
     }

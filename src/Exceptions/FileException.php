@@ -1,6 +1,6 @@
 <?php
 
-namespace Lab2view\RepositoryGenerator\Exceptions;
+namespace MveAbraham\RepositoryGenerator\Exceptions;
 
 use Exception;
 
