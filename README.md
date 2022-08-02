@@ -1,9 +1,5 @@
 # Laravel Repositories generator
  
-[![Latest Stable Version](https://poser.pugx.org/lab2view/laravel-repository-generator/v/stable)](https://packagist.org/packages/lab2view/laravel-repository-generator)
-[![Total Downloads](https://poser.pugx.org/lab2view/laravel-repository-generator/downloads)](https://packagist.org/packages/lab2view/laravel-repository-generator)
-[![Monthly Downloads](https://poser.pugx.org/lab2view/laravel-repository-generator/d/monthly)](https://packagist.org/packages/lab2view/laravel-repository-generator)
-[![License](https://poser.pugx.org/lab2view/laravel-repository-generator/license)](https://packagist.org/packages/lab2view/laravel-repository-generator)
 
 Laravel Repositories generator is a package for Laravel 7, 8 and 9 which is used to generate reposiotries from eloquent models.
 
