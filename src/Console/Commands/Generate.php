@@ -3,8 +3,8 @@
 namespace MveAbraham\RepositoryGenerator\Console\Commands;
 
 use Illuminate\Console\Command;
-use Lab2View\RepositoryGenerator\Exceptions\FileException;
-use Lab2View\RepositoryGenerator\Exceptions\StubException;
+use MveAbrahan\RepositoryGenerator\Exceptions\FileException;
+use MveAbrahan\RepositoryGenerator\Exceptions\StubException;
 
 class Generate extends Command
 {
