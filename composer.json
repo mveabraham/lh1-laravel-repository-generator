@@ -1,0 +1,30 @@
+{
+    "name": "mveabraham/lh1-repository-generator",
+    "description": "Generate Repository from Eloquent models",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MVE ABRAHAM",
+            "email": "mveabraham@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4|^8.0",
+        "ext-mbstring": "*",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/console": "^6.0|^7.0|^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MveAbraham\\RepositoryGenerator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MveAbraham\\RepositoryGenerator\\RepositoryServiceProvider"
+            ]
+        }
+    }
+}
