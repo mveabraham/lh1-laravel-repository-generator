@@ -43,7 +43,7 @@ class PostController extends Controller {
 
 The following methods are available:
 
-##### Lab2view\RepositoryGenerator\RepositoryInterface
+##### MveAbraham\RepositoryGenerator\RepositoryInterface
 
 ```php
     public function exists(string $key, $value, $withTrashed = false)

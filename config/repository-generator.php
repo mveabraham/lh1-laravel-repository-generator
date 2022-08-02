@@ -49,10 +49,10 @@ return [
     // We're going to use "repository_directory" config value for it.
     'base_repository_file' => 'BaseRepository.php',
     // Class name as string
-    'base_repository_class' => \Lab2view\RepositoryGenerator\BaseRepository::class,
+    'base_repository_class' => \MveAbraham\RepositoryGenerator\BaseRepository::class,
 
     // We're going to use "contracts_directory" config value for it.
     'base_contract_file' => 'RepositoryInterface.php',
     // Interface name as string
-    'base_contract_interface' => \Lab2view\RepositoryGenerator\RepositoryInterface::class,
+    'base_contract_interface' => \MveAbraham\RepositoryGenerator\RepositoryInterface::class,
 ];
