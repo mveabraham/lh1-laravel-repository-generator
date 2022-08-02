@@ -1,6 +1,6 @@
 <?php
 
-namespace Lab2view\RepositoryGenerator;
+namespace MveAbraham\RepositoryGenerator;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
