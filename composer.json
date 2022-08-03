@@ -1,6 +1,7 @@
 {
     "name": "mveabraham/repository-generator",
     "description": "Generate Repository from Eloquent models",
+    "keywords": ["laravel", "repository", "repositories", "generator", "mveabraham", "Mve Abraham"],
     "license": "MIT",
     "authors": [
         {
